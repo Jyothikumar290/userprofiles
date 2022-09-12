@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+    font-size: x-large;
+}
+
+.inputtext{
+    width: 20%;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+.inputsubmit{
+    width: 100px;
+    padding: 5px;
+    border-radius: 3px;
+    color: white;
+    background-color: rgb(11, 142, 192);
+    border-color: rgb(11, 142, 192);
+}
